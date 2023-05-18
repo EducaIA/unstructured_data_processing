@@ -1,0 +1,78 @@
+{
+  "document_name": "ORDEN ECI/1128/2006, de 6 de abril, por la que se desarrolla el Real Decreto 717/2005, de 20 de junio, por el que se regula la ordenación de la enseñanzas en los centros docentes acogidos al convenio entre el Ministerio de Educación y Ciencia y The British Council",
+  "Publication Date": "19 de abril de 200",
+  "regulation_type": "Orden de la Comunidad de Madrid",
+  "Law Identifier": "Orden ECI/1128/2006",
+  "Law title": "Orden ECI/1128/2006, de 6 de abril, por la que se desarrolla el Real Decreto 717/2005, de 20 de junio, por el que se regula la ordenación de la enseñanzas en los centros docentes acogidos al convenio entre el Ministerio de Educación y Ciencia y The British Council.",
+  "url": "https://www.boe.es/eli/es/o/2006/04/06/eci1128",
+  "publication_ref": "BOE-A-2006-6946",
+  "Structural Elements": {
+    "Preambulo": {
+      "Content": "El Real Decreto 717/2005, de 20 de junio, por el que se regula la ordenación de las enseñanzas en los centros docentes acogidos al convenio entre el Ministerio de Educación y Ciencia y The British Council, reordena la aplicación del convenio suscrito por ambas partes el 1 de febrero de 1996, de modo que sus beneficios puedan extenderse a centros de todas las Comunidades Autónomas y, tal como establece su contenido, a centros de las diferentes etapas de la educación obligatoria, respetando las competencias que, en materia de currículo del sistema educativo español, tienen las Administraciones educativas. Dicho real decreto regula el currículo integrado, al que deben adaptarse los currículos de las enseñanzas de educación infantil, educación primaria y educación secundaria obligatoria establecidos por las Administraciones educativas para sus respectivos ámbitos territoriales, en los centros que se acojan al convenio entre el Ministerio de Educación y Ciencia y The British Council, y faculta al Ministerio de Educación y Ciencia, en el ámbito de sus competencias, para dictar las normas que sean precisas para su aplicación y desarrollo. Una vez regulado el currículo integrado, procede determinar la forma en que los centros deben hacer constar su realización por los alumnos. Para la elaboración de esta norma han sido consultadas las Comunidades Autónomas y el Ministerio de Administraciones Públicas. Por todo ello, y en virtud de lo establecido en la disposición final segunda del Real Decreto 717/2005, de 20 de junio, este Ministerio ha dispuesto:",
+      "preambuloNumber": 0
+    },
+    "Titulo": [
+      {
+        "TitleNumber": 0,
+        "TituloHeader": "",
+        "content": "",
+        "Capítulo": [
+          {
+            "CapítuloNumber": 0,
+            "CapítuloHeader": "",
+            "content": "",
+            "Sección": [
+              {
+                "SecciónNumber": 0,
+                "SecciónHeader": "",
+                "content": "",
+                "articles": [
+                  {
+                    "ArtículoNumber": 1,
+                    "ArtículoHeader": "Artículo 1. Objeto.",
+                    "content": "Esta orden tiene por objeto regular la forma en que los centros deben hacer constar oficialmente que sus alumnos han cursado las enseñanzas del currículo integrado establecido por el Real Decreto 717/ 2005, de 20 de junio, por el que se regula la ordenación de las enseñanzas en los centros acogidos al convenio entre el Ministerio de Educación y Ciencia y The British Council.\n"
+                  },
+                  {
+                    "ArtículoNumber": 2,
+                    "ArtículoHeader": "Artículo 2. Diligencia en educación primaria y en educación secundaria obligatoria.",
+                    "content": "En las etapas de educación primaria y de educación secundaria obligatoria, la constancia se efectuará en el expediente académico del alumno y en las hojas del libro de escolaridad de la enseñanza básica destinadas a observaciones, estampando en ambos, debidamente cumplimentada, una diligencia que debe contener los datos mínimos que se indican en el anexo I para la educación primaria y en el anexo II para la educación secundaria obligatoria. Igualmente, en las actas de evaluación, se hará constar, junto con las normas que regulan el currículo de la etapa respectiva, una referencia expresa al Real Decreto 717/2005, de 20 de junio, y al currículo integrado regulado por el mismo.\n"
+                  },
+                  {
+                    "ArtículoNumber": 3,
+                    "ArtículoHeader": "Artículo 3. Entrada en vigor.",
+                    "content": "Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado»."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Disposición": [
+      {
+        "type": "",
+        "DisposiciónHeader": "",
+        "content": ""
+      }
+    ],
+    "Anexo": {
+      "Tablas": [
+        {
+          "TablaHeader": "",
+          "content": ""
+        }
+      ],
+      "structural_elements": [
+        {
+          "structural_elementtHeader": "ANEXO I\nDatos mínimos que debe contener la diligencia que ha de extenderse en el expediente académico y en el libro de escolaridad de la enseñanza básica para los alumnos que cursen la educación primaria",
+          "content": "El/la alumno/a titular de este Libro de Escolaridad/Expediente Académico ha cursado, durante el primer/segundo/tercer ciclo de Educación Primaria, el currículo integrado regulado por el Real Decreto 717/2005, de 20 de junio, y según lo que dispone el convenio firmado entre el Ministerio de Educación y Ciencia y The British Council.\n\nEl/la secretario/a V.º B.º El /la director/a (Sello del centro)"
+        },
+        {
+          "structural_elementtHeader": "ANEXO II Datos mínimos que debe contener la diligencia que ha de extenderse en el expediente académico y en el libro de escolaridad de la enseñanza básica para los alumnos que cursen educación secundaria obligatoria",
+          "content": "El/la alumno/alumna titular de este Libro de Escolaridad/Expediente Académico ha cursado, durante el primer/segundo/tercero/cuarto curso de Educación Secundaria Obligatoria, el currículo integrado regulado por el Real Decreto 717/2005, de 20 de junio, y según lo que dispone el convenio firmado entre el Ministerio de Educación y Ciencia y The British Council.\n\nEl/la secretario/a V.º B.º El /la director/a (Sello del centro)"
+        }
+      ]
+    }
+  }
+}

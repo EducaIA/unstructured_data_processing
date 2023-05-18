@@ -1,0 +1,68 @@
+{
+  "document_name": "http://www.bocm.es/boletin/CM_Orden_BOCM/2019/06/07/BOCM-20190607-13.PDF",
+  "Publication Date": "VIERNES 7 DE JUNIO DE 2019",
+  "regulation_type": "Orden de la Comunidad de Madrid",
+  "Law Identifier": "Orden 1672/2019",
+  "Law title": "ORDEN 1672/2019, de 27 de mayo, por la que se modifican las Zonas de Casas de Niños.",
+  "url": "http://www.bocm.es/boletin/CM_Orden_BOCM/2019/06/07/BOCM-20190607-13.PDF",
+  "publication_ref": "BOCM-20190607-13",
+  "Structural Elements": {
+    "Preambulo": {
+      "Content": "La Orden 7392/2000, de 22 de diciembre, de la Consejería de Educación, regula la\ncreación de las Zonas de las Escuelas de Educación Infantil de primer y segundo ciclo denominadas Casas de Niños. Esta Orden amparó la creación de las Zonas de Casas de Niños,\ncomo agrupaciones de centros educativos ubicados en un entorno geográfico cercano y con\nuna dirección común.\nLa demanda de plazas escolares de primer ciclo de Educación Infantil en los últimos\naños ha llevado a la Comunidad de Madrid a crear, entre otras medidas, nuevas Escuelas\nInfantiles-Casas de Niños y a transformar Escuelas Infantiles en Escuelas Infantiles-Casas\nde Niños para poder atender dicha demanda de escolarización en pequeños municipios de\nla región. Ello hace necesario una nueva reordenación de las Zonas de Casas de Niños para\nincluir en ellas los nuevos centros.\nLa Orden 11260/2012, de 11 de octubre, estableció las zonas de Casas de Niños tal y\ncomo se configuran en el momento actual. Dicha Orden fue modificada parcialmente por\nlas Órdenes 1326/2014, de 21 de abril; 3721/2014, de 16 de diciembre; 3111/2015, de 13 de octubre; 1490/2016, de 9 de mayo, y 2525/2017, de 6 de julio.\nLa Consejería de Educación e Investigación en uso de las competencias atribuidas por\nel Decreto 127/2017, de 24 de octubre, del Consejo de Gobierno, por el que se establece la\nestructura orgánica de la Consejería de Educación e Investigación,",
+      "preambuloNumber": 0
+    },
+    "Titulo": [
+      {
+        "TitleNumber": 0,
+        "TituloHeader": "",
+        "content": "",
+        "Capítulo": [
+          {
+            "CapítuloNumber": 0,
+            "CapítuloHeader": "",
+            "content": "",
+            "Sección": [
+              {
+                "SecciónNumber": 0,
+                "SecciónHeader": "",
+                "content": "",
+                "articles": [
+                  {
+                    "ArtículoNumber": 1,
+                    "ArtículoHeader": "Primero",
+                    "content": "Se establecen las Zonas de Casas de Niños que se incluyen en Anexo de la presente Orden."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Disposición": [
+      {
+        "type": "FINAL",
+        "DisposiciónHeader": "DISPOSICIÓN FINAL",
+        "content": "La presente Orden surtirá efectos a partir del día siguiente al de su publicación en el\nBOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.\nMadrid, a 27 de mayo de 2019.—El Consejero de Educación e Investigación, PD (Orden 11634/2012, de 27 de noviembre; BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 3\ndiciembre), el Director General de Educación Infantil, Primaria y Secundaria, Juan José\nNieto Romero."
+      }
+    ],
+    "Anexo": {
+      "Tablas": [
+        {
+          "TablaHeader": "",
+          "content": ""
+        }
+      ],
+      "structural_elements": [
+        {
+          "structural_elementtHeader": "DIRECCIÓN DE ÁREA TERRITORIAL MADRID-SUR",
+          "content": "S-1. Zona de Casas de Niños Sur-1.\nSede: Moraleja de Enmedio (“Colorín Colorado”).\nCódigo de zona: 28056321.\n— Escuela Infantil Casa de Niños “Érase una Vez” de Moraleja de Enmedio.\nCódigo: 28072375.\n— Escuela Infantil Casa de Niños “Luna Lunera” de Arroyomolinos.\nCódigo: 28061717.\n— Escuela Infantil Casa de Niños “El Trébol” de Serranillos del Valle.\nCódigo: 28047265.\n"
+        },
+        {
+          "structural_elementtHeader": "DIRECCIÓN DE ÁREA TERRITORIAL MADRID-OESTE",
+          "content": "O-1. Zona de Casas de Niños Oeste-1.\nSede de zona: Valdemorillo.\nCódigo de zona:28056229.\n— Escuela Infantil Casa de Niños de Valdemorillo.\nCódigo: 28048181.\n— Escuela Infantil Casa de Niños de Navalagamella.\nCódigo: 28047216.\n— Escuela Infantil Casa de Niños Quijorna. Código:\n28050185.\n— Escuela Infantil Casa de Niños Santa María de la Alameda.\nCódigo: 28078870."
+        }
+      ]
+    }
+  }
+}

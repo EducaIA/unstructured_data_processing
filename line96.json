@@ -1,0 +1,61 @@
+{
+    "document_name": "DECRETO 13/2011, de 24 de marzo, del Consejo de Gobierno, de autonomía de los planes de estudio de Educación Secundaria Obligatoria de la Comunidad de Madrid.",
+    "Publication Date": "VIERNES 15 DE ABRIL DE 2011",
+    "regulation_type": "Decreto de la Comunidad de Madrid",
+    "Law Identifier": "DECRETO 13/2011",
+    "Law title": "DECRETO 13/2011, de 24 de marzo, del Consejo de Gobierno, de autonomía de los planes de estudio de Educación Secundaria Obligatoria de la Comunidad de Madrid.",
+    "url": "http://www.bocm.es/boletin/CM_Orden_BOCM/2011/04/15/BOCM-20110415-4.PDF",
+    "publication_ref": "BOCM-20110415-4",
+    "Structural Elements": {
+        "Preambulo": { 
+	            "Content": "En aplicación de lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el Estado aprobó el Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas de la Educación Secundaria Obligatoria.\nEn desarrollo del mismo, y al amparo de lo previsto en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, según el cual corresponde a las Administraciones educativas competentes el establecimiento del currículo de las enseñanzas en ella reguladas, la Comunidad de Madrid aprobó el Decreto 23/2007, de 10 de mayo, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de la Educación Secundaria Obligatoria.\nEl Decreto 23/2007, de 10 de mayo, integra por un lado lo previsto en el Real Decreto 1631/2006, de 29 de diciembre, y por otro desarrolla estas enseñanzas mínimas, regulando la Educación Secundaria Obligatoria en el ámbito territorial de la Comunidad de Madrid.\nLa encomienda que la Ley Orgánica de Educación realiza, en su artículo 120, a la Administración educativa de favorecer la autonomía pedagógica de los centros docentes y el desarrollo de planes de innovación específicos, aconsejan una modificación del Decreto 23/2007, de 10 de mayo, que permita una adaptación curricular de sus contenidos en determinados supuestos, respetando lo dispuesto en el Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas de la Educación Secundaria\nObligatoria.\nEn el proceso de elaboración de este Decreto ha emitido dictamen el Consejo Escolar de la Comunidad de Madrid, de acuerdo con el artículo 2.1.b) de la Ley 12/1999, de 29 de abril, de Creación del Consejo Escolar de la Comunidad de Madrid.\nEn virtud de todo lo anterior, a propuesta de la Consejería de Educación y previa deliberación del Consejo de Gobierno en su reunión del día 24 de marzo de 2011,\n",
+           "preambuloNumber": 0
+	    },
+	    "Titulo": [{
+		    "TitleNumber": 0,
+            "TituloHeader": "",
+            "content": "",
+            "Capítulo": [
+                {
+		            "CapítuloNumber": 0,
+                    "CapítuloHeader": "",
+                    "content": "",
+                    "Sección": [{
+		                "SecciónNumber": 0,
+                        "SecciónHeader": "",
+                        "content": "",
+                        "articles": [{
+		                    "ArtículoNumber": 1,
+                            "ArtículoHeader": "Artículo único",
+                            "content": "Modificación del Decreto 23/2007, de 10 de mayo, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de la Educación Secundaria\nObligatoria.\nSe añade una disposición adicional tercera al Decreto 23/2007, de 10 de mayo, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de la Educación Secundaria Obligatoria, con el siguiente contenido:\n"
+                        }]
+                    }]
+                }
+            ]
+        }],
+        "Disposición": [
+            {
+                "type": "ADICIONAL",
+                "title": "DISPOSICIÓN ADICIONAL TERCERA",
+                "subtitle": "Autonomía pedagógica",
+                "content": "La Consejería de Educación podrá autorizar cambios en las áreas del currículo, sin que ello suponga modificación de sus aspectos básicos regulados en el Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas de la Educación Secundaria Obligatoria, en base a lo dispuesto en la Ley Orgánica 2/2006, de 3 de mayo, de Educación."
+            },
+            {
+                "type": "FINAL",
+                "title": "DISPOSICIÓN FINAL ÚNICA",
+                "subtitle": "Entrada en vigor",
+                "content": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID."
+            }
+        ],
+        "Anexo": {
+            "Tablas": [{
+                "TablaHeader": "",
+                "content": ""
+            }],
+            "structural_elements": [{
+                "structural_elementtHeader": "",
+                "content": ""
+            }]
+        }
+    }
+}

@@ -1,0 +1,531 @@
+{
+    "document_name": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/08/BOCM-20211008-17.PDF",
+    "Publication Date": "VIERNES 8 DE OCTUBRE DE 2021",
+    "regulation_type": "Orden de la Comunidad de Madrid",
+    "Law Identifier": "ORDEN 2874/2021",
+    "Law title": "ORDEN 2874/2021, de 30 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se autoriza la cuantía del precio de comedor en escuelas infantiles pertenecientes a la Red Pública de Escuelas Infantiles de la Comunidad de Madrid gestionadas mediante contrato de servicio público educativo (modalidad de financiación por costes) para el curso escolar 2021-2022.",
+    "url": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/08/BOCM-20211008-17.PDF",
+    "publication_ref": "BOCM-20211008-17",
+    "Structural Elements": {
+        "Preambulo": { 
+	        "Content": "La Orden 956/2017, de 30 de marzo, por la que se fija la cuantía de los precios privados de alimentación mensual o comedor de los centros de la red pública de Educación Infantil de la Comunidad de Madrid a partir del curso 2017-2018, establece en su artículo primero que la Consejería de Educación, Juventud y Deporte (actualmente Consejería de Educación, Universidades, Ciencia y Portavocía) podrá autorizar precios inferiores al establecido en dicha Orden en centros de titularidad de la Comunidad de Madrid de gestión indirecta. El precio será, en cada caso, el establecido para el servicio de alimentación mensual o comedor escolar en el correspondiente contrato de gestión de servicio público, actualizado según la cláusula de revisión establecida en el mismo.\nPor ello, en uso de las competencias atribuidas por el Decreto 288/2019, de 12 noviembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación y Juventud, en relación con el Decreto 42/2021, de 19 de junio, de la Presidenta de la Comunidad de Madrid, por el que se establece el número y denominación de las Consejerías, y por el Decreto 88/2021, de 30 de junio, del Consejo de Gobierno, por el que se modifica la estructura orgánica básica de las Consejerías de la Comunidad de Madrid,\n",
+           "preambuloNumber": 0
+	    },
+	    "Titulo": [{
+		    "TitleNumber": 0,
+            "TituloHeader": "",
+            "content": "",
+            "Capítulo": [
+                {
+		            "CapítuloNumber": 0,
+                    "CapítuloHeader": "",
+                    "content": "",
+                    "Sección": [{
+		                "SecciónNumber": 0,
+                        "SecciónHeader": "",
+                        "content": "",
+                        "articles": [{
+		                    "ArtículoNumber": 1,
+                            "ArtículoHeader": "Apartado único",
+                            "content": "Autorizar los precios del servicio de alimentación mensual o comedor escolar de las Escuelas Infantiles que se relacionan en los anexos, pertenecientes a la Red Pública de Educación Infantil de la Comunidad de Madrid, de gestión indirecta y modalidad de financiación sujeta al sistema de costes, para el curso escolar 2021-2022, sin perjuicio de las posibles reducciones y exenciones previstas, respectivamente, en los artículos 2 y 3 de la Orden 956/2017, de 30 de marzo."
+                        }]
+                    }]
+                }
+            ]
+        }],
+        "Disposición": [{
+            "type": "",
+            "DisposiciónHeader": "",
+            "content": ""
+        }],
+        "Anexo": {
+            "Tablas": [{
+                "TablaHeader": "Anexo I \nPrecios comedor Escuelas Infantiles contratos gestión servicios públicos educativos \nTitularidad Comunidad de Madrid \nCurso Escolar 2021-2022 (todo el curso)",
+                "content": [
+                    {
+                        "Nº ": "1",
+                        "Escuela Infantil ": "Adivinanzas ",
+                        "Municipio ": "Alcorcón ",
+                        "Precio Unitario ": "86,87 € "
+                    },
+                    {
+                        "Nº ": "2",
+                        "Escuela Infantil ": "Aldea, La ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "3",
+                        "Escuela Infantil ": "Almendro, El ",
+                        "Municipio ": "Colmenar Viejo ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "4",
+                        "Escuela Infantil ": "Amadeo Vives ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "86,86 € "
+                    },
+                    {
+                        "Nº ": "5",
+                        "Escuela Infantil ": "Antón Pirulero ",
+                        "Municipio ": "Coslada ",
+                        "Precio Unitario ": "86,86 € "
+                    },
+                    {
+                        "Nº ": "6",
+                        "Escuela Infantil ": "Arce ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "93,50 € "
+                    },
+                    {
+                        "Nº ": "7",
+                        "Escuela Infantil ": "Aserrín Aserrán ",
+                        "Municipio ": "Las Rozas de Madrid ",
+                        "Precio Unitario ": "57,91 € "
+                    },
+                    {
+                        "Nº ": "8",
+                        "Escuela Infantil ": "Bosque, El ",
+                        "Municipio ": "Humanes de Madrid ",
+                        "Precio Unitario ": "88,00 € "
+                    },
+                    {
+                        "Nº ": "9",
+                        "Escuela Infantil ": "Campanilla ",
+                        "Municipio ": "Arroyomolinos ",
+                        "Precio Unitario ": "82,00 € "
+                    },
+                    {
+                        "Nº ": "10",
+                        "Escuela Infantil ": "Cancionero ",
+                        "Municipio ": "Getafe ",
+                        "Precio Unitario ": "85,00 € "
+                    },
+                    {
+                        "Nº ": "11",
+                        "Escuela Infantil ": "Cascabeles ",
+                        "Municipio ": "Alcobendas ",
+                        "Precio Unitario ": "86,86 € "
+                    },
+                    {
+                        "Nº ": "12",
+                        "Escuela Infantil ": "Cigüeñas, Las ",
+                        "Municipio ": "Fuenlabrada ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "13",
+                        "Escuela Infantil ": "Cinco Lobitos ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "14",
+                        "Escuela Infantil ": "Cocherito Leré, El ",
+                        "Municipio ": "Fuenlabrada ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "15",
+                        "Escuela Infantil ": "Columpio, El ",
+                        "Municipio ": "Loeches ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "16",
+                        "Escuela Infantil ": "Compañeros, Los ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "17",
+                        "Escuela Infantil ": "Corro de la Patata, El ",
+                        "Municipio ": "Alcorcón ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "18",
+                        "Escuela Infantil ": "Cuentacuentos ",
+                        "Municipio ": "Collado Villalba ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "19",
+                        "Escuela Infantil ": "Don Melitón ",
+                        "Municipio ": "Alcalá de Henares ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "20",
+                        "Escuela Infantil ": "Extremadura ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "21",
+                        "Escuela Infantil ": "Fábulas y Leyendas ",
+                        "Municipio ": "Móstoles ",
+                        "Precio Unitario ": "86,86 € "
+                    },
+                    {
+                        "Nº ": "22",
+                        "Escuela Infantil ": "Faro, El ",
+                        "Municipio ": "San Sebastián de los Reyes ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "23",
+                        "Escuela Infantil ": "Gloria Fuertes ",
+                        "Municipio ": "Arganda del Rey ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "24",
+                        "Escuela Infantil ": "Gorriones, Los ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "25",
+                        "Escuela Infantil ": "Jacaranda ",
+                        "Municipio ": "Valdemoro ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "26",
+                        "Escuela Infantil ": "Madroños, Los ",
+                        "Municipio ": "Pozuelo de Alarcón ",
+                        "Precio Unitario ": "90,00 € "
+                    },
+                    {
+                        "Nº ": "27",
+                        "Escuela Infantil ": "Marionetas ",
+                        "Municipio ": "Torrejón de Ardoz ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "28",
+                        "Escuela Infantil ": "Marta Mata ",
+                        "Municipio ": "Getafe ",
+                        "Precio Unitario ": "86,86 € "
+                    },
+                    {
+                        "Nº ": "29",
+                        "Escuela Infantil ": "Mimosa, La ",
+                        "Municipio ": "Fuenlabrada ",
+                        "Precio Unitario ": "85,00 € "
+                    },
+                    {
+                        "Nº ": "30",
+                        "Escuela Infantil ": "Nanas de la Cebolla ",
+                        "Municipio ": "Rivas-Vaciamadrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "31",
+                        "Escuela Infantil ": "Noria, La ",
+                        "Municipio ": "Leganés ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "32",
+                        "Escuela Infantil ": "Olivar, El ",
+                        "Municipio ": "San Martín de Valdeiglesias ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "33",
+                        "Escuela Infantil ": "Palmas Palmitas ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "34",
+                        "Escuela Infantil ": "Pandora ",
+                        "Municipio ": "Leganés ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "35",
+                        "Escuela Infantil ": "Patas Arriba ",
+                        "Municipio ": "Rivas-Vaciamadrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "36",
+                        "Escuela Infantil ": "Petirrojo ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "37",
+                        "Escuela Infantil ": "Pinceladas ",
+                        "Municipio ": "Arganda del Rey ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "38",
+                        "Escuela Infantil ": "Pinos de Maeve, Los ",
+                        "Municipio ": "Alcorcón ",
+                        "Precio Unitario ": "90,47 € "
+                    },
+                    {
+                        "Nº ": "39",
+                        "Escuela Infantil ": "Pío Pío ",
+                        "Municipio ": "Alcobendas ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "40",
+                        "Escuela Infantil ": "Piruetas ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "41",
+                        "Escuela Infantil ": "Pradera, La ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "42",
+                        "Escuela Infantil ": "Rocío Jurado ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "82,00 € "
+                    },
+                    {
+                        "Nº ": "43",
+                        "Escuela Infantil ": "Romancero, El ",
+                        "Municipio ": "Leganés ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "44",
+                        "Escuela Infantil ": "Santa Madre Maravillas ",
+                        "Municipio ": "Getafe ",
+                        "Precio Unitario ": "82,00 € "
+                    },
+                    {
+                        "Nº ": "45",
+                        "Escuela Infantil ": "Shantala ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "90,00 € "
+                    },
+                    {
+                        "Nº ": "46",
+                        "Escuela Infantil ": "Sol Solito ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "47",
+                        "Escuela Infantil ": "Sur, El ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "48",
+                        "Escuela Infantil ": "Tajetes, Los ",
+                        "Municipio ": "Hoyo de  Manzanares ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "49",
+                        "Escuela Infantil ": "Tarara, La ",
+                        "Municipio ": "Majadahonda ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "50",
+                        "Escuela Infantil ": "Tragaluz ",
+                        "Municipio ": "Pinto ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "51",
+                        "Escuela Infantil ": "Tren de la Fresa, El ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "85,00 € "
+                    },
+                    {
+                        "Nº ": "52",
+                        "Escuela Infantil ": "Valle de Oro ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "87,18 € "
+                    }
+                ]
+            },
+            {
+                "TablaHeader": "Anexo II \nPrecios comedor Escuelas Infantiles contratos gestión servicios públicos educativos \nTitularidad Comunidad de Madrid \nCurso Escolar 2021-2022 (mes de septiembre 2021)",
+                "content": [
+                    {
+                        "Nº ": "1",
+                        "Escuela Infantil ": "Abetos, Los ",
+                        "Municipio ": "Parla ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "2",
+                        "Escuela Infantil ": "Arlequín, El ",
+                        "Municipio ": "Rivas-Vaciamadrid ",
+                        "Precio Unitario ": "83,00 € "
+                    },
+                    {
+                        "Nº ": "3",
+                        "Escuela Infantil ": "Colorín Colorado ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "88,02 € "
+                    },
+                    {
+                        "Nº ": "4",
+                        "Escuela Infantil ": "Espinillo, El ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "84,75 € "
+                    },
+                    {
+                        "Nº ": "5",
+                        "Escuela Infantil ": "Limonero, El ",
+                        "Municipio ": "Parla ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "6",
+                        "Escuela Infantil ": "Pozo del tío Raimundo, El ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "93,92 € "
+                    },
+                    {
+                        "Nº ": "7",
+                        "Escuela Infantil ": "Princesa, La ",
+                        "Municipio ": "Alcorcón ",
+                        "Precio Unitario ": "89,35 € "
+                    },
+                    {
+                        "Nº ": "8",
+                        "Escuela Infantil ": "Roble, El ",
+                        "Municipio ": "Valdemoro ",
+                        "Precio Unitario ": "86,00 € "
+                    },
+                    {
+                        "Nº ": "9",
+                        "Escuela Infantil ": "Rodari ",
+                        "Municipio ": "Alcorcón ",
+                        "Precio Unitario ": "96,00 € "
+                    },
+                    {
+                        "Nº ": "10",
+                        "Escuela Infantil ": "Trébol, El ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "96,00 €"
+                    }
+                ]
+            },
+            {
+                "TablaHeader": "Anexo III \nPrecios comedor Escuelas Infantiles contratos gestión servicios públicos educativos \nTitularidad Comunidad de Madrid \nCurso Escolar 2021-2022 (meses de septiembre y octubre de 2021) ",
+                "content": [
+                    {
+                        "Nº ": "1",
+                        "Escuela Infantil ": "Alameda, La ",
+                        "Municipio ": "Fuenlabrada ",
+                        "Precio Unitario ": "88,99 € "
+                    },
+                    {
+                        "Nº ": "2",
+                        "Escuela Infantil ": "Arte ",
+                        "Municipio ": "Getafe ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "3",
+                        "Escuela Infantil ": "Caracol-col-col ",
+                        "Municipio ": "Ciempozuelos ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "4",
+                        "Escuela Infantil ": "Carricoche ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "91,11 € "
+                    },
+                    {
+                        "Nº ": "5",
+                        "Escuela Infantil ": "Casiopea ",
+                        "Municipio ": "Getafe ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "6",
+                        "Escuela Infantil ": "Comba, La ",
+                        "Municipio ": "Leganés ",
+                        "Precio Unitario ": "89,25 € "
+                    },
+                    {
+                        "Nº ": "7",
+                        "Escuela Infantil ": "Manzano, El ",
+                        "Municipio ": "Parla ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "8",
+                        "Escuela Infantil ": "Naranjo, El ",
+                        "Municipio ": "Fuenlabrada ",
+                        "Precio Unitario ": "84,75 € "
+                    },
+                    {
+                        "Nº ": "9",
+                        "Escuela Infantil ": "Naranjo, El ",
+                        "Municipio ": "Parla ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "10",
+                        "Escuela Infantil ": "Rayuela ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "83,00 € "
+                    },
+                    {
+                        "Nº ": "11",
+                        "Escuela Infantil ": "Rocío Dúrcal ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "83,00 € "
+                    },
+                    {
+                        "Nº ": "12",
+                        "Escuela Infantil ": "Señor Don Gato, El ",
+                        "Municipio ": "Madrid ",
+                        "Precio Unitario ": "86,86 € "
+                    },
+                    {
+                        "Nº ": "13",
+                        "Escuela Infantil ": "Tesoros ",
+                        "Municipio ": "Arganda del Rey ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "14",
+                        "Escuela Infantil ": "Trébol ",
+                        "Municipio ": "Pinto ",
+                        "Precio Unitario ": "85,02 € "
+                    },
+                    {
+                        "Nº ": "15",
+                        "Escuela Infantil ": "Tris Tras ",
+                        "Municipio ": "Parla ",
+                        "Precio Unitario ": "92,65 € "
+                    },
+                    {
+                        "Nº ": "16",
+                        "Escuela Infantil ": "Zarabanda ",
+                        "Municipio ": "Parla ",
+                        "Precio Unitario ": "88,99 € "
+                    }
+                ]
+            }],
+            "structural_elements": [{
+                "structural_elementtHeader": "",
+                "content": ""
+            }]
+        }
+    }
+}

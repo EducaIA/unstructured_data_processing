@@ -1,0 +1,64 @@
+{
+  "document_name": "http://www.bocm.es/boletin/CM_Orden_BOCM/2019/10/17/BOCM-20191017-14.PDF",
+  "Publication Date": "JUEVES 17 DE OCTUBRE DE 2019",
+  "regulation_type": "Orden de la Comunidad de Madrid",
+  "Law Identifier": "Orden 2892/2019",
+  "Law title": "ORDEN 2892/2019, de 30 de septiembre, de la Consejería de Educación y Juventud, por la que se modifican las Zonas de Casas de Niños.",
+  "url": "http://www.bocm.es/boletin/CM_Orden_BOCM/2019/10/17/BOCM-20191017-14.PDF",
+  "publication_ref": "BOCM-20191017-14",
+  "Structural Elements": {
+    "Preambulo": {
+      "Content": "La Orden 7392/2000, de 22 de diciembre, de la Consejería de Educación, regula la\ncreación de las Zonas de las Escuelas de Educación Infantil de primer y segundo ciclo denominadas Casas de Niños. Esta Orden amparó la creación de las Zonas de Casas de Niños,\ncomo agrupaciones de centros educativos ubicados en un entorno geográfico cercano y con\nuna dirección común.\nLa Orden 11260/2012, de 11 de octubre, estableció las zonas de Casas de Niños tal y\ncomo se configuran en el momento actual. Dicha Orden fue modificada parcialmente por\nlas Órdenes 1326/2014, de 21 de abril; 3721/2014, de 16 de diciembre; 3111/2015, de 13\nde octubre; 1490/2016, de 9 de mayo; 2525/2017, de 6 de julio, y 1672/2019, de 27 de mayo.\nLa Consejería de Educación y Juventud, en uso de las competencias atribuidas por el\nDecreto 52/2019, de 19 de agosto, de la Presidenta de la Comunidad de Madrid, por el que\nse establece el número y denominación de las Consejerías de la Comunidad de Madrid,",
+      "preambuloNumber": 0
+    },
+    "Titulo": [
+      {
+        "TitleNumber": 0,
+        "TituloHeader": "",
+        "content": "",
+        "Capítulo": [
+          {
+            "CapítuloNumber": 0,
+            "CapítuloHeader": "",
+            "content": "",
+            "Sección": [
+              {
+                "SecciónNumber": 0,
+                "SecciónHeader": "",
+                "content": "",
+                "articles": [
+                  {
+                    "ArtículoNumber": 1,
+                    "ArtículoHeader": "Primero",
+                    "content": "Se establecen las Zonas de Casas de Niños que se incluyen en Anexo de la presente Orden."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Disposición": [
+      {
+        "type": "FINAL",
+        "DisposiciónHeader": "DISPOSICIÓN FINAL",
+        "content": "La presente Orden surtirá efectos a partir del día siguiente al de su publicación en el\nBOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.\nMadrid, a 30 de septiembre de 2019.—El Consejero de Educación y Juventud, PD (Orden 11634/2012, de 27 de noviembre; BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID\nde 3 de diciembre), el Director General de Educación Infantil y Primaria, Manuel Bautista\nMonjón."
+      }
+    ],
+    "Anexo": {
+      "Tablas": [
+        {
+          "TablaHeader": "",
+          "content": ""
+        }
+      ],
+      "structural_elements": [
+        {
+          "structural_elementtHeader": "DIRECCIÓN DE ÁREA TERRITORIAL MADRID-SUR",
+          "content": "S-2. Zona de Casas de Niños Sur-2.\nSede: Griñón.\nCódigo de zona: 28056333.\n— Escuela Infantil Casa de Niños de Griñón.\nCódigo: 28047851.\n— Escuela Infantil Casa de Niños “El Principito” de Torrejón de Velasco.\nCódigo: 28060671.\n— Escuela Infantil Casa de “Niños Sol y Luna” de Cubas de la Sagra.\nCódigo: 28070317.\nS-12. Zona de Casas de Niños Sur-12.\nSede: Alcorcón (“Arco Iris”).\nCódigo de zona: 28060804.\n— Escuela Infantil Casa de Niños “Arco Iris” de Alcorcón.\nCódigo: 28057520.\n— Escuela Infantil Casa de Niños “Sol y Luna” de Alcorcón.\nCódigo: 28057568.\n— Escuela Infantil Casa de Niños “Casarrubuelos I”.\nCódigo: 28047095.\n— Escuela Infantil Casa de Niños “Casarrubuelos II”.\nCódigo: 28059450."
+        }
+      ]
+    }
+  }
+}
