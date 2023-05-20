@@ -1,0 +1,57 @@
+{
+    "document_name": document_name,
+    "Publication Date": date,
+    "regulation_type": regulation_type,
+    "Law Identifier": identifier,
+    "Law title": title,
+    "url": url,
+    "publication_ref": publication_ref,
+    "Structural Elements": {
+        "Preambulo": { 
+	        "Content": content,
+            "preambuloNumber": 0
+	    },
+	    "Titulo": [{
+		    "TitleNumber": titleNumber,
+            "TituloHeader": title,
+            "content": content,
+            "Capítulo": [
+                {
+		            "CapítuloNumber": chapterNumber,
+                    "CapítuloHeader": title,
+                    "content": content,
+                    "Sección": [{
+		                "SecciónNumber": 0,
+                        "SecciónHeader": "",
+                        "content": "",
+                        "articles": [{
+		                    "ArtículoNumber": articleNumber,
+                            "ArtículoHeader": title,
+                            "content": content,
+                            "subtitle": subtitle
+                        }]
+                    }]
+                }
+            ]
+        }],
+        "Disposición": [{
+            "type": type,
+            "DisposiciónHeader": title,
+            "content": content,
+            "subtitle": subtitle
+        }],
+        "Anexo": {
+            "Tablas": [{
+                "TablaHeader": title,
+                "content": content
+            }],
+            "structural_elements": [{
+                "structural_elementtHeader": title,
+                "content": content
+            }]
+        }
+    }
+}
+
+
+

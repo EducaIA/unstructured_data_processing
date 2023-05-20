@@ -1,0 +1,29 @@
+{
+    "document_name": "https://www.comunidad.madrid/sites/default/files/doc/educacion/anexo_iv_papel_de_seguridad.pdf",
+    "Publication Date": "N/A",
+    "regulation_type": "N/A",
+    "Law Identifier": "N/A",
+    "Law title": "N/A",
+    "url": "https://www.comunidad.madrid/sites/default/files/doc/educacion/anexo_iv_papel_de_seguridad.pdf",
+    "publication_ref": "N/A",
+    "Structural Elements": {
+        "Preambulo": { 
+	        "Content": ""
+	    },
+	    "Titulo": [{
+		    "TitleNumber": 0,
+            "TituloHeader": "",
+            "content": ""
+        }],
+    "Anexo": {
+        "Tablas": [{
+            "TablaHeader": "",
+            "content": ""
+        }],
+        "structural_elements": [{
+            "structural_elementtHeader": "ANEXO IV",
+            "content": "El papel de seguridad en que se imprimirá el Historial académico de las enseñanzas\npara la obtención del título de Graduado en Educación Secundaria Obligatoria por\npersonas adultas tendrá las siguientes características:\n- Papel de 110 g.\n- Neutro bajo la luz U.V.\n- Tamaño DIN-A 4\n- Color crema\n- Preparado para su impresión a dos caras\n- Microfibrillas luminiscentes azules, amarillas y rojas, visibles bajo luz U.V.\n- Reactividad a ácidos, bases, disolventes orgánicos y oxidantes y reductores.\n- En el anverso tendrá, arriba a la izquierda, un escudo de España con la\nleyenda “ESPAÑA” debajo, y arriba a la derecha, un escudo de la Comunidad\nde Madrid con la leyenda “COMUNIDAD DE MADRID” debajo.\n- Microimpresión con la expresión “Historiales Académicos de Enseñanza Básica\nde la Comunidad de Madrid.”."
+            }]
+        }
+    }
+}
