@@ -1,0 +1,51 @@
+{
+    "document_name": "CORRECCIÓN de errores de la Orden 3219/2010, de 8 de junio, por la que se \nregulan las enseñanzas iniciales de la educación básica para personas \nadultas en la Comunidad de Madrid. (BOCM de 24 de agosto)",
+    "Publication Date": "MARTES 24 DE AGOSTO DE 2010",
+    "regulation_type": "N/A",
+    "Law Identifier": "CORRECCIÓN de errores de la Orden 3219/2010",
+    "Law title": "CORRECCIÓN de errores de la Orden 3219/2010, de 8 de junio, por la que se\nregulan las enseñanzas iniciales de la educación básica para personas adultas\nen la Comunidad de Madrid.",
+    "url": "http://www.bocm.es/boletin/CM_Orden_BOCM/2010/08/24/BOCM-20100824-1.PDF",
+    "publication_ref": "BOCM-20100824-1",
+    "Structural Elements": {
+        "Preambulo": { 
+	        "Content": "Advertido error material en la publicación de la corrección de errores de la Orden 3219/2010, de 8 de junio, de la Consejería de Educación, por la que se regulan las enseñanzas iniciales de la educación básica de personas adultas en la Comunidad de Madrid\n(BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 191, de 11 de agosto de 2010),\nse procede a su corrección en los siguientes términos:\n— En el artículo 11.2, donde dice: “(...) los procedimientos extraordinarios de evaluación para aquellos alumnos que no pueden ser calificados por evaluación continua”; debe decir: “(...) los procedimientos extraordinarios de evaluación para\naquellos alumnos que no puedan ser calificados por evaluación continua”.\n— En la disposición adicional primera.1, donde dice: “3. La asistencia a clase es\nobligatoria”; debe decir: “3. En este régimen, la asistencia a clase es obligatoria”.\n— En la disposición transitoria primera.2, donde dice:| Situación en las enseñanzas derivadas de la LOGSE | Incorporación a las enseñanzas derivadas de la LOGSE |\n|---------------------------------------------------|------------------------------------------------------|\n| Primer curso del tramo I                          | Segundo curso del nivel inicial I                    |\n| Tramo I no superado                               | Segundo curso del nivel inicial I                    |\n| Tramo I superado                                  | Primer curso del nivel inicial II                    |\n| Primer curso del Tramo II                         | Segundo curso del nivel Inicial II                   |\n| Tramo II no superado                              | Segundo curso del nivel Inicial II                   |\n| Debe decir:                                       |                                                      |\n|                                                   |                                                      |\n| Situación en las enseñanzas derivadas de la LOGSE | Incorporación a las enseñanzas derivadas de la LOE   |\n| Primer curso del tramo I                          | Segundo curso del Nivel inicial I                    |\n| Tramo I no superado                               | Segundo curso del Nivel inicial I                    |\n| Tramo I superado                                  | Primer curso del Nivel inicial II                    |\n| Primer curso del Tramo II                         | Segundo curso del Nivel Inicial II                   |\n| Tramo II no superado                              | Segundo curso del Nivel Inicial II                   |\n"
+	    },
+	    "Titulo": [{
+		    "TitleNumber": 0,
+            "TituloHeader": "",
+            "content": "",
+            "Capítulo": [
+                {
+		            "CapítuloNumber": 0,
+                    "CapítuloHeader": "",
+                    "content": "",
+                    "Sección": [{
+		                "SecciónNumber": 0,
+                        "SecciónHeader": "",
+                        "content": "",
+                        "articles": [{
+		                    "ArtículoNumber": 0,
+                            "ArtículoHeader": "",
+                            "content": ""
+                        }]
+                    }]
+                }
+            ]
+        }],
+        "Disposición": [{
+            "type": "",
+            "DisposiciónHeader": "",
+            "content": ""
+        }],
+        "Anexo": {
+            "Tablas": [{
+                "TablaHeader": "",
+                "content": ""
+            }],
+            "structural_elements": [{
+                "structural_elementtHeader": "",
+                "content": ""
+            }]
+        }
+    }
+}

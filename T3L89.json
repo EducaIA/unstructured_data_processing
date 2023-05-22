@@ -1,0 +1,55 @@
+{
+    "document_name": "https://www.comunidad.madrid/sites/default/files/doc/educacion/p0806_informe_psicopedagogico1.doc",
+    "Publication Date": "N/A",
+    "regulation_type": "N/A",
+    "Law Identifier": "N/A",
+    "Law title": "N/A",
+    "url": "https://www.comunidad.madrid/sites/default/files/doc/educacion/p0806_informe_psicopedagogico1.doc",
+    "publication_ref": "N/A",
+    "Structural Elements": {
+        "Preambulo": { 
+	        "Content": "",
+            "preambuloNumber": 0
+	    },
+	    "Titulo": [{
+		    "TitleNumber": 0,
+            "TituloHeader": "",
+            "content": "",
+            "Capítulo": [
+                {
+		            "CapítuloNumber": 0,
+                    "CapítuloHeader": "",
+                    "content": "",
+                    "Sección": [{
+		                "SecciónNumber": 0,
+                        "SecciónHeader": "",
+                        "content": "",
+                        "articles": [{
+		                    "ArtículoNumber": 0,
+                            "ArtículoHeader": "",
+                            "content": "",
+                            "subtitle": ""
+                        }]
+                    }]
+                }
+            ]
+        }],
+        "Disposición": [{
+            "type": "",
+            "DisposiciónHeader": "",
+            "content": "",
+            "subtitle": ""
+        }],
+        "Anexo": {
+            "Tablas": [{
+                "TablaHeader": "",
+                "content": ""
+            }],
+            "structural_elements": [{
+                "structural_elementtHeader": "ANEXO VI \nAUTORIZACIÓN DE LOS PADRES/TUTORES LEGALES PARA LA REALIZACIÓN DE LA \nEVALUACIÓN PSICOPEDAGÓGICA \n",
+                "content": "D. ________________________________________, DNI/NIE/Pasaporte _______________ y Dña. _____________________________________, DNI/NIE/Pasaporte _________________, como padres/tutores legales del alumno ___________________________________________, escolarizado en el centro público/privado ______________________________________, código __________, dirección ___________________________, localidad _______________, y con domicilio, a efectos de notificación, en la localidad de _________________________, calle ___________________________________________, número _______, C.P. _________ y teléfonos de contacto  ________________________________________________________  \n \nAUTORIZAN \n \nLa realización de la evaluación psicopedagógica de su hijo/a a fin de determinar, en su caso, las necesidades específicas de apoyo educativo así como la respuesta educativa más adecuada a las mismas. \n \n \n____________, a ___ de ________________ de _______ \n \n \n \n \n \nEl padre o tutor legal     La madre o tutora legal \n \n \n \n \n   \n \n \n \nFdo.: _________________________   Fdo.: _______________________",
+                "page": 1
+            }]
+        }
+    }
+}

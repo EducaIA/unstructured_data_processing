@@ -1,0 +1,55 @@
+{
+    "document_name": "https://www.comunidad.madrid/sites/default/files/doc/educacion/p0806_informe_psicopedagogico1.doc",
+    "Publication Date": "N/A",
+    "regulation_type": "N/A",
+    "Law Identifier": "N/A",
+    "Law title": "N/A",
+    "url": "https://www.comunidad.madrid/sites/default/files/doc/educacion/p0806_informe_psicopedagogico1.doc",
+    "publication_ref": "N/A",
+    "Structural Elements": {
+        "Preambulo": { 
+	        "Content": "",
+            "preambuloNumber": 0
+	    },
+	    "Titulo": [{
+		    "TitleNumber": 0,
+            "TituloHeader": "",
+            "content": "",
+            "Capítulo": [
+                {
+		            "CapítuloNumber": 0,
+                    "CapítuloHeader": "",
+                    "content": "",
+                    "Sección": [{
+		                "SecciónNumber": 0,
+                        "SecciónHeader": "",
+                        "content": "",
+                        "articles": [{
+		                    "ArtículoNumber": 0,
+                            "ArtículoHeader": "",
+                            "content": "",
+                            "subtitle": ""
+                        }]
+                    }]
+                }
+            ]
+        }],
+        "Disposición": [{
+            "type": "",
+            "DisposiciónHeader": "",
+            "content": "",
+            "subtitle": ""
+        }],
+        "Anexo": {
+            "Tablas": [{
+                "TablaHeader": "",
+                "content": ""
+            }],
+            "structural_elements": [{
+                "structural_elementtHeader": "ANEXO V \n  INFORME DEL SERVICIO DE INSPECCIÓN EDUCATIVA",
+                "rawContent": "D./Dª.__________________________________________________________________________________________________, Inspector/a de educación de la Dirección de Área Territorial de Madrid ____________________________, en relación con la solicitud de: Permanencia un año más en el segundo ciclo de Educación Infantil \nPermanencia un año más en el último curso de Educación Primaria \nMedidas de enriquecimiento y/o ampliación curricular \nFlexibilización del período de escolarización \n________________________________________________________________________________________________________________ del alumno/a _______________________________________________________________________________________, remitida por el centro _____________________________________________________________________________________________________, de _______________________________________________________________, de Madrid, que contiene: \nInforme del equipo docente \nInforme psicopedagógico realizado por el EOEP/Orientador de ____________________________________________________, en el que consta que: \n●El alumno/a tiene necesidades específicas\n●La medida propuesta es la más adecuada para responder a las necesidades educativas específicas que presentan  Conformidad de los padres o tutores legales del alumno/a con la media \nConsiderando, además, que: \n  La solicitud        se ajusta en fondo y forma a lo establecido en la Orden de la Consejería competente en materia de ordenación académica por la que se regula la evaluación y la promoción de los alumnos con necesidad específica de apoyo educativo, que cursen segundo ciclo de Educación Infantil, Educación Primaria y Enseñanza Básica Obligatoria, así como la flexibilización de la duración de las enseñanzas de los alumnos con altas capacidades intelectuales. \nLos derechos del alumno/a y de su familia han sido respetados. \nOtras consideraciones: _____________________________________________________________________________________________ \n________________________________________________________________________________________________________________ \nInforma                                                   la propuesta para que dicho alumno/a, en el año académico 20____/20 ___, se escolarice en el ____________ curso de Educación __________________________. \n__________________, a____ de ____________________ de 20 ____ \n        Vº Bº \nEl Jefe/a del Servicio de Inspección/DistritoEl Inspector/a de Educación \nFdo.: ________________________________         Fdo.:____________________________",
+                "page": 1
+            }]
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "document_name": "https://www.comunidad.madrid/sites/default/files/doc/educacion/p0806_informe_psicopedagogico1.doc",
+    "Publication Date": "N/A",
+    "regulation_type": "N/A",
+    "Law Identifier": "N/A",
+    "Law title": "N/A",
+    "url": "https://www.comunidad.madrid/sites/default/files/doc/educacion/p0806_informe_psicopedagogico1.doc",
+    "publication_ref": "N/A",
+    "Structural Elements": {
+        "Preambulo": { 
+	        "Content": "",
+            "preambuloNumber": 0
+	    },
+	    "Titulo": [{
+		    "TitleNumber": 0,
+            "TituloHeader": "",
+            "content": "",
+            "Capítulo": [
+                {
+		            "CapítuloNumber": 0,
+                    "CapítuloHeader": "",
+                    "content": "",
+                    "Sección": [{
+		                "SecciónNumber": 0,
+                        "SecciónHeader": "",
+                        "content": "",
+                        "articles": [{
+		                    "ArtículoNumber": 0,
+                            "ArtículoHeader": "",
+                            "content": "",
+                            "subtitle": ""
+                        }]
+                    }]
+                }
+            ]
+        }],
+        "Disposición": [{
+            "type": "",
+            "DisposiciónHeader": "",
+            "content": "",
+            "subtitle": ""
+        }],
+        "Anexo": {
+            "Tablas": [{
+                "TablaHeader": "",
+                "content": ""
+            }],
+            "structural_elements": [{
+                "structural_elementtHeader": "ANEXO III\nINFORME DEL EQUIPO DOCENTE COORDINADO POR EL MAESTRO/A TUTOR/A",
+                "rawCcontent": "Datos personales del alumno/a \nApellidos: Nombre: \nDNI/NIE/Pasaporte: Sexo:          H            M   \n\nFecha de nacimiento: Lugar de nacimiento: \nProvincia: País: Nacionalidad: \nDomicilio: Localidad: C.P.: \nProvincia: Teléfono: Correo electrónico: \nNombre del padre o tutor legal: \nDNI/NIE Pasaporte: Teléfono de contacto: \nNombre de la madre o tutora legal: \nDNI/NIE/Pasaporte: Teléfono de contacto: \nDatos escolares del alumno \nCurso: \nTutor/a: \n \nINFORMACIÓN APORTADA POR EL MAESTRO/A TUTOR/A Y EL EQUIPO DOCENTE DEL ALUMNO/A \nCompetencia curricular \nNivel de competencia curricular en cada una de las áreas. Especificar cada una de ellas: \nDatos relevantes de su evolución académica: \nPágina 1 de 3 \nDatos relevantes sobre el desarrollo general y social del alumno/a y sobre su madurez personal y desarrollo social \nDesarrollo biológico, intelectual, motor y comunicativo-lingüístico: \nDatos relevantes sobre su madurez personal: \nInserción social en el centro y en la familia: (antecedentes y expectativas: relación con los/las compañeros/as, los/las maestros/as y otros adultos) \nOtras informaciones significativas: \n(intereses, motivaciones) \nMedidas educativas adoptadas con el alumno/a durante el presente curso y cursos anteriores \n(especificar las áreas en las que se ha realizado) \nAdaptaciones curriculares significativas: (para alumnos/as con necesidades educativas  especiales) \nMedidas de enriquecimiento curricular y/o ampliación: (para alumnos/as con altas capacidades) \nOtras: (especificar) \nPágina 2 de 3 \nCONCLUSIONES \nEl equipo docente del alumno/a____________________________________________________________________________________, que cursa  _______________________(nivel/etapa), durante el año académico 20_____/20_____, acredita que, después de la evaluación correspondiente, dicho alumno/a: \nDebe permanecer un año más en el segundo ciclo de Educación Infantil \nDebe permanecer un año más en el último curso de Educación Primaria \nPrecisa medidas de enriquecimiento y/o ampliación curricular \nTiene adquiridos los objetivos del curso superior al que, por edad; le corresponde y posee la madurez cognitiva, emocional y social para integrarse en un grupo de alumnos mayores de edad. Por ello se considera que la flexibilización es una medida adecuada para dar respuesta a sus necesidades educativas específicas. \n \nEn_______________________, a _____de ______________________de 20___ \nVº Bº    El tutor/a \nEl/la directora/a del centro \n(sello del centro) \nFdo.:__________________________________       Fdo.:_________________________________________ \nFIRMA DEL EQUIPO DOCENTE \nÁrea__________________________________ \nFdo.: _________________________________ Área__________________________________ \nFdo.: _________________________________ Área__________________________________ \nFdo.: _________________________________ \nÁrea__________________________________ \nFdo.: _________________________________ Área__________________________________ \nFdo.: _________________________________ Área__________________________________ \nFdo.: _________________________________ \n",
+                "page": 1
+            }]
+        }
+    }
+}

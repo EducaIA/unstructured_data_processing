@@ -1,0 +1,31 @@
+{
+    "document_name": "https://www.comunidad.madrid/sites/default/files/anexovcertificaciontraslado.pdf",
+    "Publication Date": "N/A",
+    "regulation_type": "N/A",
+    "Law Identifier": "N/A",
+    "Law title": "N/A",
+    "url": "https://www.comunidad.madrid/sites/default/files/anexovcertificaciontraslado.pdf",
+    "publication_ref": "N/A",
+    "Structural Elements": {
+        "Preambulo": { 
+	        "Content": ""
+	    },
+	    "Titulo": [{
+		    "TitleNumber": 0,
+            "TituloHeader": "",
+            "content": ""
+        }],
+    "Anexo": {
+        "Tablas": [{
+            "TablaHeader": "",
+            "content": "",
+            "page": 1
+        }],
+        "structural_elements": [{
+            "structural_elementtHeader": "ANEXO V\nCERTIFICACIÓN PARA TRASLADO",
+            "rawCntent": "ENSEÑANZAS PARA LA OBTENCIÓN DEL TÍTULO DE GRADUADO EN EDUCACIÓN\nSECUNDARIA OBLIGATORIA POR PERSONAS ADULTAS\nReal Decreto 1105/2014, de 26 de diciembre (B.O.E. de 3 de enero de 2015) Real Decreto-ley 5/2016, de 9 de diciembre (B.O.E. del 10)\nOrden 1255/2017, de 21 de abril (B.O.C.M. de 16 de mayo) Orden 2784/2017, de 26 de julio (B.O.C.M. de 4 de agosto)\nNúmero de identificación (NIA)\nDatos personales del alumno\nApellidos: Nombre:\nD.N.I./N.I.E./Pasaporte: Sexo: H p M p\nFecha de nacimiento: Lugar de nacimiento:\nProvincia: País: Nacionalidad:\nDomicilio: Localidad: C.P.:\nProvincia: Teléfono: E-mail:\nRellenar sólo en el caso de que el alumno sea menor de edad\nNombre del padre o tutor: Teléfono de contacto:\nD.N.I./N.I.E./Pasaporte:\nNombre de la madre o tutora: Teléfono de contacto:\nD.N.I./N.I.E./Pasaporte:\nCentro de\norigen Código\nDirección Localidad C.P.\nTeléfono Fax E-mail\nDon/Doña ____________________ como Secretario/a del centro docente\n_______________________ CERTIFICO que el alumno cuyos datos figuran arriba, está\ncursando/ha cursado durante el año académico ___________los estudios\ncorrespondientes al nivel_______ (1) de las enseñanzas para la obtención del título de\nGraduado en Educación Secundaria Obligatoria por personas adultas, de acuerdo con lo\nque se refleja a continuación (cumpliméntese lo que proceda).\n(1) I, II\nÁmbitos que está cursando [especificar el nivel de cada ámbito en su caso]\n(Traslado una vez iniciado el año académico)\nPromoción\n(Traslado a comienzo del año académico)\nPromoción al Nivel II\n□\nÁmbito pendiente de superar de Nivel I en su caso.\nRepetición de Nivel\n□\nÁmbitos que debe cursar (especificar el nivel de cada ámbito en su caso).\nVº Bº _______________________, a ___ de _____________ de 20 ___\nEl/la Director/a El/la Secretario/a\n(Sello del centro)\nFdo.: Fdo.:\nOpción elegida en Nivel II (en su\ncaso)\nEnseñanzas académicas p\nEnseñanzas aplicadas p",
+            "page": 1
+            }]
+        }
+    }
+}

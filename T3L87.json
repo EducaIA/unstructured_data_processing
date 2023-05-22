@@ -1,0 +1,55 @@
+{
+    "document_name": "https://www.comunidad.madrid/sites/default/files/doc/educacion/p0806_informe_psicopedagogico1.doc",
+    "Publication Date": "N/A",
+    "regulation_type": "N/A",
+    "Law Identifier": "N/A",
+    "Law title": "N/A",
+    "url": "https://www.comunidad.madrid/sites/default/files/doc/educacion/p0806_informe_psicopedagogico1.doc",
+    "publication_ref": "N/A",
+    "Structural Elements": {
+        "Preambulo": { 
+	        "Content": "",
+            "preambuloNumber": 0
+	    },
+	    "Titulo": [{
+		    "TitleNumber": 0,
+            "TituloHeader": "",
+            "content": "",
+            "Capítulo": [
+                {
+		            "CapítuloNumber": 0,
+                    "CapítuloHeader": "",
+                    "content": "",
+                    "Sección": [{
+		                "SecciónNumber": 0,
+                        "SecciónHeader": "",
+                        "content": "",
+                        "articles": [{
+		                    "ArtículoNumber": 0,
+                            "ArtículoHeader": "",
+                            "content": "",
+                            "subtitle": ""
+                        }]
+                    }]
+                }
+            ]
+        }],
+        "Disposición": [{
+            "type": "",
+            "DisposiciónHeader": "",
+            "content": "",
+            "subtitle": ""
+        }],
+        "Anexo": {
+            "Tablas": [{
+                "TablaHeader": "",
+                "content": ""
+            }],
+            "structural_elements": [{
+                "structural_elementtHeader": "ANEXO IV \nCONFORMIDAD DE LOS PADRES / TUTORES LEGALES CON LA PROPUESTA \n",
+                "rawContent": "D._____________________________________________________________________________________________________________________ y Dña. ___________________________________________________________________________________________________________________, como padres/tutores legales del alumno/a ____________________________________________________________________________________ , con domicilio en la localidad de _____________________________________________________________________________________________ , calle __________________________________________________________________________________ número_________, C.P. _____________ y teléfonos de contacto ___________________________________________________________________________________________________ , \nEXPONEN \nQue, habiendo sido informados por el centro ___________________________________________________________________ (nombre del centro) de la propuesta de: \nPermanencia un año más en Educación Infantil \nEnriquecimiento y/o ampliación curricular \nFlexibilización de las enseñanzas de Educación____________________________________________________________________(etapa), cursando ___________________________________________________________________________________ (nivel/etapa) en lugar de ________________________________________________________________________________ (nivel/etapa), como medida adecuada para el desarrollo de su equilibrio personal y de su socialización, para el año académico 20____ / 20____ \n _________________________________________________________________________________________________ MANIFIESTAN \nSu conformidad con la propuesta ___________________, a _____ de _______________ de  _________ \nEl padre o  tutor legal     La madre o tutora legal \nFdo.:  _______________________________Fdo.: ____________________________________ ",
+                "page": 1
+            }]
+        }
+    }
+}

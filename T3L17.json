@@ -1,0 +1,42 @@
+{
+  "document_name": "https://www.comunidad.madrid/sites/default/files/aud/educacion/2021-07-19_instrucciones_adultos_2021_22_vfinal_24923501.pdf",
+  "Publication Date": "N/A",
+  "regulation_type": "Instrucción de la Comunidad de Madrid",
+  "Law Identifier": "N/A",
+  "Law title": "",
+  "url": "https://www.comunidad.madrid/sites/default/files/aud/educacion/2021-07-19_instrucciones_adultos_2021_22_vfinal_24923501.pdf",
+  "publication_ref": "N/A",
+  "Structural Elements": {
+    "Preambulo": {
+      "Content": ""
+    },
+    "Titulo": [
+      {
+        "TitleNumber": "",
+        "TituloHeader": "",
+        "content": "",
+        "Instrucciones": [
+          {
+            "InstruccionNumber": "",
+            "InstruccionHeader": "",
+            "content": ""
+          }
+        ]
+      }
+    ],
+    "Anexo": {
+      "Tablas": [
+        {
+          "TablaHeader": "",
+          "content": ""
+        }
+      ],
+      "structural_elements": [
+        {
+          "structural_elementtHeader": "",
+          "content": ""
+        }
+      ]
+    }
+  }
+}
